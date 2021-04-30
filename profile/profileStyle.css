@@ -1,0 +1,21 @@
+body{
+    background-image: url(../cs.jpg);
+    background-size: cover;
+    height: 20%;
+}
+
+.content{
+background-color: transparent;
+}
+.card{
+    background-color: transparent;
+}
+.m-3{
+    color: rgb(0, 153, 255);
+}
+.mt-3{
+    color: red;
+}
+.row{
+    color: aqua;
+}
